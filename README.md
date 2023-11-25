@@ -1,4 +1,4 @@
-# HBNB
+# CONSOLE AIRBNB
 
 This is the console for the ALX Airbnb clone project. The console can be used to store objects in and retrieve objects from a JSON.
 
